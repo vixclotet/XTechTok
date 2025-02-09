@@ -1,6 +1,8 @@
 # XTechTok
 
-XTechTok is a **TikTok clone** built with modern web technologies.
+XTechTok is a simple tiktok copy application to find and discover top tech people.
+
+I built this in a day since I thought it would be cool for people just getting into the industry to discover who are top influencers and CEOs they should look up to.
 
 ## Demo
 
